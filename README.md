@@ -1,7 +1,7 @@
 # Support Engineer - SQL Investigations & Data Quality
 
 ## Overview
-This repository simulates a Tier-1/Tier-2 Technical Support and Data Operations environment. It contains practical investigations and data quality audits executed directly on a relational database (PostgreSQL) to resolve mock internal escalation tickets.
+This repository simulates a Technical Support and Data Operations environment. It contains practical investigations and data quality audits executed directly on a relational database (PostgreSQL) to resolve mock internal escalation tickets.
 
 The focus of these queries is to demonstrate the ability to investigate technical issues, validate system behavior, and ensure accurate resolution of reported product and data issues using advanced SQL.
 
